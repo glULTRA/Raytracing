@@ -1,0 +1,3 @@
+D:/Projects/Raytracing/build/CMakeFiles/Raytracing.dir
+D:/Projects/Raytracing/build/CMakeFiles/edit_cache.dir
+D:/Projects/Raytracing/build/CMakeFiles/rebuild_cache.dir
